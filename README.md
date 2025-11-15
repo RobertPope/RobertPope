@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on Salesforce customizations for the Online Learning Consortium
+
 🌱 I’m currently learning what I can about AI, AWS, AgentForce, and Organization change management
